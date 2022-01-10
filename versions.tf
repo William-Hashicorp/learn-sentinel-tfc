@@ -16,7 +16,7 @@ terraform {
     organization = "William-Hashicorp"
 
     workspaces {
-      name = "sentinel-example"
+      name = "learn-sentinel-tfc"
     }
   }
 
